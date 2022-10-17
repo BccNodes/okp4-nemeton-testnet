@@ -58,7 +58,10 @@ if ! [ -x "$(command -v go)" ]; then
   source ~/.bash_profile
 fi
 ```
-
+## Moniker ismimizi atayalım
+```
+NODENAME=<MONIKER_ISMINIZI_GİRİN>
+```
 
 ## Github reposunun bir kopyasını oluşturun ve kurun
 ```
@@ -78,6 +81,8 @@ okp4d version
 okp4d config chain-id okp4-nemeton
 okp4d config keyring-backend file
 okp4d config node tcp://localhost:26657
+okp4d init $NODENAME --chain-id okp4-nemeton
+
 ```
 Cüzdan oluşturalım veya var olan cüzdanı geri getirelim
 
