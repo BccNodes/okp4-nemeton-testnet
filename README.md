@@ -12,11 +12,6 @@
             <img height="70px" src="https://github.com/berkcaNode/berkcaNode/blob/main/web.png">
             </td>
             <td width="300px" align="center">
-            <span><strong>Discord</strong></span><br><br />
-            <a href="https://discord.gg/sXPSXw8dUa" target="_blank" rel="noopener noreferrer">
-            <img height="70px" src="https://github.com/berkcaNode/berkcaNode/blob/main/discord.png">
-            </td>
-            <td width="300px" align="center">
             <span><strong>BccNodes Explorer</strong></span><br><br />
             <a href="https://explorer.bccnodes.com/" target="_blank" rel="noopener noreferrer">
             <img height="70px" src="https://github.com/berkcaNode/berkcaNode/blob/main/exp%20(1).png">
