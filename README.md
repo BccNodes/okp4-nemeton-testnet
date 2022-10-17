@@ -187,6 +187,6 @@ okp4d tx staking delegate VALOPERADRESİNİZ 10000000uknow --from=CÜZDANİSMİ 
 # BccNodes API && RPC && STATE-SYNC
 
 Orijinal Döküman:
->- [BccNodes API endpoint](https://andro.api.bccnodes.com/)
+>- [BccNodes API endpoint](https://okp4.api.bccnodes.com/))
 
->- [BccNodes RPC endpoint](https://andro.rpc.bccnodes.com/)
+>- [BccNodes RPC endpoint](https://okp4.rpc.bccnodes.com/))
