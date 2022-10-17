@@ -28,7 +28,7 @@
 # OKP4 Manuel node kurulumu
 
 <p align="center">
-  <img height="220" height="auto" src="okp4.jpeg">
+  <img height="220" height="auto" src="okp4.png">
 </p>
 
 Orijinal Döküman:
