@@ -158,8 +158,8 @@ okp4d tx staking create-validator \
   --min-self-delegation "1" \
   --details "Don't stop me KNOW" \
   --pubkey=$PUB_KEY \
-  --moniker "$MONIKER_NAME" \
-  --chain-id $CHAIN_ID \
+  --moniker $NODENAME \
+  --chain-id okp4-nemeton \
   --gas-prices 0.025uknow \
   --from <key-name>
 ```
