@@ -147,16 +147,14 @@ Validator Oluşturalım
 ```
 okp4d tx staking create-validator \
   --amount 1000000uknow \
-  --commission-max-change-rate "0.1" \
-  --commission-max-rate "0.20" \
-  --commission-rate "0.1" \
+  --from WALLETNAME \
+  --commission-max-change-rate "0.01" \
+  --commission-max-rate "0.2" \
+  --commission-rate "0.05" \
   --min-self-delegation "1" \
-  --details "Don't stop me KNOW" \
-  --pubkey=$PUB_KEY \
-  --moniker $NODENAME \
-  --chain-id okp4-nemeton \
-  --gas-prices 0.025uknow \
-  --from <key-name>
+  --pubkey  $(okp4d tendermint show-validator) \
+  --moniker NODENAME \
+  --chain-id okp4-nemeton
 ```
 
 ### İşe yarar komutlar
