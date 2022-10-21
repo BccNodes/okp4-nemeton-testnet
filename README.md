@@ -185,9 +185,9 @@ okp4d tx staking delegate VALOPERADRESİNİZ 10000000uknow --from=CÜZDANİSMİ 
 # BccNodes API && RPC && STATE-SYNC
 
 Endpoints:
->- [BccNodes API endpoint](https://okp4.api.bccnodes.com/))
+>- [BccNodes API endpoint](https://okp4.api.bccnodes.com/)
 
->- [BccNodes RPC endpoint](https://okp4.rpc.bccnodes.com/))
+>- [BccNodes RPC endpoint](https://okp4.rpc.bccnodes.com/)
 
 ### State Sync
 Aşağıdaki komutları çalıştırarak düğümünüzü dakikalar içinde senkronize edebilirsiniz.
